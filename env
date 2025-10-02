@@ -1,0 +1,7 @@
+IAM_USER="felicitee-ses"
+SMTP_HOST="email-smtp.ap-southeast-1.amazonaws.com"
+SMTP_PORT=587
+SMTP_USER="AKIAZELRU3XBYXYOPVGS"
+SMTP_PASS="BGWG3hQdBxp9iexuKS8eblpfIRjwrlbsUa7f3J2l1u1P"
+CONTACT_EMAIL_FROM="gifts@felicitee.com"
+CONTACT_EMAIL_TO="feliciteemnl@gmail.com"
